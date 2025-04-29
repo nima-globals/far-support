@@ -39,6 +39,11 @@ Far Support is a powerful, secure, and user-friendly remote system management so
   - Volume control
   - Application management
 
+## 🔗 Links
+- [Website](https://far-support.ir)
+- [Dashboard](https://far-support.ir/dashboard)
+- [Help Page](https://far-support.ir/help)
+- 
 ## 🔒 Security Features
 
 - Secure authentication system
@@ -114,6 +119,11 @@ Far Support is a powerful, secure, and user-friendly remote system management so
   - قابلیت خاموش/راه‌اندازی مجدد سیستم
   - کنترل صدا
   - مدیریت برنامه‌ها
+
+## 🔗 لینک ها
+- [وبسایت](https://far-support.ir)
+- [داشبورد](https://far-support.ir/dashboard)
+- [صفحه راهنمایی](https://far-support.ir/help)
 
 ## 🔒 ویژگی‌های امنیتی
 
